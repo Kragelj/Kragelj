@@ -16,4 +16,3 @@ My journey into the world of data began in late 2024, and since then, I've been 
 This diverse experience has equipped me with a unique analytical approach, strong communication skills, and a knack for uncovering insights from data.
 
 #### 🚀 Let's Connect!
-Feel free to check out my projects, share insights, or just say hi!
