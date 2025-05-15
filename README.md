@@ -7,7 +7,7 @@ My journey into the world of data began in late 2024, and since then, I've been 
 - **Databases:** SQL (MySQL)
 - **Visualization:** Tableau
 - **Data Processing & Analysis:** ETL, exploratory analysis, statistical methods
-- 
+
 #### 🔍 My Background
 - 🎓 **Languages & Literature** – Studied and taught at the university level
 - 🌍 **Translation & Interpreting** – Diplomatic settings, bussiness, literature... you name it!
